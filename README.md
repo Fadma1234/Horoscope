@@ -9,9 +9,7 @@ It’s built with plain **HTML, CSS, and JavaScript**.
 - Basic styling with CSS  
 
 ## How to use
-1. Open `index.html` in your browser.  
-2. Select your zodiac sign.  
-3. Get your horoscope instantly.  
+Just click the link on the right side of this page under about website
 
 ## Files
 - `index.html` – main page  
