@@ -9,7 +9,7 @@ It’s built with plain **HTML, CSS, and JavaScript**.
 - Basic styling with CSS  
 
 ## How to use
-Just click the link on the right side of this page under about website
+Just click the link on the right side of this page under about 
 
 ## Files
 - `index.html` – main page  
